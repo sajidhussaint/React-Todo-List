@@ -16,7 +16,7 @@ Explore the app [here](https://react-todo-list-vert.vercel.app/).
 
 ## Getting Started:
 
-1. Clone the repository: `git clone https://github.com/your-username/react-todo-app.git`
+1. Clone the repository: `git clone https://github.com/sajidhussaint/react-todo-app.git`
 2. Navigate to the project directory: `cd react-todo-app`
 3. Install dependencies: `npm install`
 4. Run the app: `npm start`
@@ -25,9 +25,5 @@ Explore the app [here](https://react-todo-list-vert.vercel.app/).
 ## Contributing:
 
 Contributions are welcome! Feel free to open issues and pull requests.
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
 
 Enjoy task management made easy with our React Todo App! 🚀📝
